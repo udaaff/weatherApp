@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fe14f29-40d6-42be-a193-121824fac007" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/weatherApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherApp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherApp/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherApp/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherApp/wsgi.py" afterDir="false" />
+    <list default="true" id="9fe14f29-40d6-42be-a193-121824fac007" name="Changes" comment="Add new features to &quot;meteo&quot; Django app&#10;&#10;The app now interacts with a weather API to retrieve weather data. It can deliver weather reports for a random city or the user's city. Added new templates, tests, admin configurations, and corresponding URLs. Also, integrated Git for version control.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,8 +179,17 @@
       <updated>1717427209658</updated>
       <workItem from="1717427221336" duration="2489000" />
       <workItem from="1717869829955" duration="11241000" />
-      <workItem from="1717918452289" duration="2683000" />
+      <workItem from="1717918452289" duration="3728000" />
     </task>
+    <task id="LOCAL-00001" summary="Add new features to &quot;meteo&quot; Django app&#10;&#10;The app now interacts with a weather API to retrieve weather data. It can deliver weather reports for a random city or the user's city. Added new templates, tests, admin configurations, and corresponding URLs. Also, integrated Git for version control.">
+      <option name="closed" value="true" />
+      <created>1717921400316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717921400316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,5 +197,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add new features to &quot;meteo&quot; Django app&#10;&#10;The app now interacts with a weather API to retrieve weather data. It can deliver weather reports for a random city or the user's city. Added new templates, tests, admin configurations, and corresponding URLs. Also, integrated Git for version control." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new features to &quot;meteo&quot; Django app&#10;&#10;The app now interacts with a weather API to retrieve weather data. It can deliver weather reports for a random city or the user's city. Added new templates, tests, admin configurations, and corresponding URLs. Also, integrated Git for version control." />
   </component>
 </project>
